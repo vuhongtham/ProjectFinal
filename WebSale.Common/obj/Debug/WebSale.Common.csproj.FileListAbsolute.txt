@@ -1,0 +1,6 @@
+D:\Đồ án\WebSale\WebSale.Common\bin\Debug\WebSale.Common.dll
+D:\Đồ án\WebSale\WebSale.Common\bin\Debug\WebSale.Common.pdb
+D:\Đồ án\WebSale\WebSale.Common\obj\Debug\WebSale.Common.csprojAssemblyReference.cache
+D:\Đồ án\WebSale\WebSale.Common\obj\Debug\WebSale.Common.csproj.CoreCompileInputs.cache
+D:\Đồ án\WebSale\WebSale.Common\obj\Debug\WebSale.Common.dll
+D:\Đồ án\WebSale\WebSale.Common\obj\Debug\WebSale.Common.pdb
